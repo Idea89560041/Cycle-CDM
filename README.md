@@ -28,25 +28,9 @@ Diffusion magnetic resonance imaging (MRI) is a widely employed technique for in
 
 To run the test_batch, please put trained model in 'model' folder, then run:
 
-        python test_batch.py
+        python sampling.py
 
 You will get a quality score and a distortion type, and a higher score indicates better image quality.
-
-**Training & Testing on IQA Databases**
-
-First put the pretrained weight (https://drive.google.com/file/d/1W0mvaqjFVlEXSZynEJhRRg7LlsCr2AV9/view?usp=sharing) in 'pretrained' folder. Training and testing our model on the specified dataset.
-
-        python train_test_IQA.py
-
-**Some available options:**
-
---dataset: Training and testing dataset, support datasets: livec | koniq-10k | bid | live | csiq.
-
---train_patch_num: Sampled image patch number per training image.
-
---test_patch_num: Sampled image patch number per testing image.
-
---batch_size: Batch size.
 
 **Acknowledgement**
 
