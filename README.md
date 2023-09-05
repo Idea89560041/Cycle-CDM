@@ -24,17 +24,17 @@ Diffusion magnetic resonance imaging (MRI) is a widely employed technique for in
 
 **Usages**
 
-**Testing batch images**
+**Testing artefact correction demo**
 
-To run the test_batch, please put trained model in 'model' folder, then run:
+To run the demo, please put trained model in 'checkpoint' folder, then run:
 
         python sampling.py
 
-You will get a quality score and a distortion type, and a higher score indicates better image quality.
+You will get the artefact-free image in /data/artefact-free.
 
 **Acknowledgement**
 
-The code used in this research is inspired by HyperIQA (https://github.com/SSL92/hyperIQA) and ResT (https://github.com/wofmanaf/ResT).
+The code used in this research is inspired by UNIT_DDPM (https://github.com/SSL92/hyperIQA) and ResT (https://github.com/wofmanaf/ResT).
 
 **Contact**
 
