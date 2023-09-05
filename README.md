@@ -34,7 +34,7 @@ You will get the artefact-free image in /data/artefact-free.
 
 **Acknowledgement**
 
-The code used in this research is inspired by UNIT_DDPM (https://github.com/SSL92/hyperIQA) and ResT (https://github.com/wofmanaf/ResT).
+The code used in this research is inspired by UNIT_DDPM (https://github.com/konkuad/UNIT-DDPM-Unofficial) and F-LSeSim (https://github.com/lyndonzheng/F-LSeSim).
 
 **Contact**
 
