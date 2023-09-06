@@ -28,7 +28,7 @@ Diffusion magnetic resonance imaging (MRI) is a widely employed technique for in
 
 To run the demo, please put trained model in 'checkpoint' folder, then run:
 
-        python sampling.py
+        python ./diffusion/sampling.py
 
 You will get the artefact-free image in /data/artefact-free.
 
