@@ -26,7 +26,7 @@ Diffusion magnetic resonance imaging (MRI) is a widely employed technique for in
 
 **Testing artefact correction demo**
 
-To run the demo, please put trained model in 'checkpoint' folder, then run:
+To run the demo, please put trained model (https://drive.google.com/file/d/1W0mvaqjFVlEXSZynEJhRRg7LlsCr2AV9/view?usp=sharing) in 'checkpoint' folder, then run:
 
         python ./diffusion/sampling.py
 
