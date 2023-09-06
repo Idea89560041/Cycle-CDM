@@ -8,11 +8,11 @@ Diffusion magnetic resonance imaging (MRI) is a widely employed technique for in
 
 **Dependencies**
 
---python  3.6
+--python  3.8.16
 
---pytorch 1.7.0
+--pytorch 1.12.1
 
---torchvision 0.8.0
+--torchvision 0.13.1
 
 --scipy 1.5.4
 
