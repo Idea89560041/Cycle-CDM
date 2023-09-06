@@ -14,13 +14,13 @@ Diffusion magnetic resonance imaging (MRI) is a widely employed technique for in
 
 --torchvision 0.13.1
 
---scipy 1.5.4
+--matplotlib 3.5.2
 
---pliiow 8.4.0
+--numpy 1.24.3
 
---timm 0.4.9
+--einops 0.6.0
 
---openpyxl 3.0.7
+--tqdm 4.64.0
 
 **Usages**
 
